@@ -15,7 +15,7 @@ void setup()
   lcd.setCursor(0,0);
   lcd.print("Hello, world!");
   lcd.setCursor(0,9);
-  lcd.print("Tinkerers lab");
+  lcd.print("Tinkerers");
 
 }
 //lcd.setCursor(0, 0);
